@@ -1,0 +1,7 @@
+
+handle		lilmoe
+mask		*!*@lilmoe.users.undernet.org
+mask		*!*@arab.users.undernet.org
+prot		4
+channel		*
+access		100
